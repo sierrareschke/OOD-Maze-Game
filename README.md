@@ -6,10 +6,16 @@ Please see the repositories below for each iteration of the game, each with a fo
 ## Projects
 - [Iteration 1](https://github.com/sierrareschke/Maze-Game-Iteration-1): Initial iteration focused on developing code in a test-driven manner and implementing object-oriented principles (i.e. inheritance, single-responsibility, encapsulation). Outlies the foundation for all future iterations to build upon. (DONE)
 - [Iteration 2](https://github.com/sierrareschke/Maze-Game-Iteration-2): Expanding Polymorphia, adding Dependency Injection and Logging. (DONE)
-- [Iteration 3](https://github.com/sierrareschke/Maze-Game-Iteration-3): Adding the Factory and Builder Patterns.
+- [Iteration 3](https://github.com/sierrareschke/Maze-Game-Iteration-3): Adding the Factory and Builder Patterns. (GOES TO ITERATION-2??)
 - [Iteration 4](https://github.com/sierrareschke/Maze-Game-Iteration-4): Adding the Observer, Adaptor, and Singleton Patterns to Polymorphia.
 - [Iteration 5](https://github.com/sierrareschke/Maze-Game-Iteration-5): Adding Encapsulation and Behavior-Driven-Design.
 - [Iteration 6](https://github.com/sierrareschke/Maze-Game-Iteration-6): Refactoring with the Strategy and Command Patterns.
 - [Iteration 7](https://github.com/sierrareschke/Maze-Game-Iteration-7): Extending Polymorphia with the Decorator Pattern and a Human Player.
 - [Iteration 8](https://github.com/sierrareschke/Maze-Game-Iteration-8): Turning Polymorphia into a Service.
 - [Iteration 9](https://github.com/sierrareschke/Maze-Game-Iteration-9): Creating a custom Strategy Pattern.
+
+
+TODO
+- why does iteration-3 go to iteration-2??
+- make new links for all?
+- 
