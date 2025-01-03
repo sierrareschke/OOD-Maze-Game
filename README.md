@@ -4,8 +4,8 @@ This repository showcases the Maze Game (Polymorphia), a Java project designed a
 Please see the repositories below for each iteration of the game, each with a focus on enhancing the object-oriented design of the code and game functionality.
 
 ## Projects
-- [Iteration 1](https://github.com/sierrareschke/Maze-Game-Iteration-1): Initial iteration focused on developing code in a test-driven manner and implementing object-oriented principles (i.e. inheritance, single-responsibility, encapsulation). Outlies the foundation for all future iterations to build upon.
-- [Iteration 2](https://github.com/sierrareschke/Maze-Game-Iteration-2): Expanding Polymorphia, adding Dependency Injection and Logging.
+- [Iteration 1](https://github.com/sierrareschke/Maze-Game-Iteration-1): Initial iteration focused on developing code in a test-driven manner and implementing object-oriented principles (i.e. inheritance, single-responsibility, encapsulation). Outlies the foundation for all future iterations to build upon. (DONE)
+- [Iteration 2](https://github.com/sierrareschke/Maze-Game-Iteration-2): Expanding Polymorphia, adding Dependency Injection and Logging. (DONE)
 - [Iteration 3](https://github.com/sierrareschke/Maze-Game-Iteration-3): Adding the Factory and Builder Patterns.
 - [Iteration 4](https://github.com/sierrareschke/Maze-Game-Iteration-4): Adding the Observer, Adaptor, and Singleton Patterns to Polymorphia.
 - [Iteration 5](https://github.com/sierrareschke/Maze-Game-Iteration-5): Adding Encapsulation and Behavior-Driven-Design.
