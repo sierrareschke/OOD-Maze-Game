@@ -1,4 +1,4 @@
-# OOD-Maze-Game
+# Object-Oriented Design Adventure Maze Game
 This repository showcases the Maze Game (Polymorphia), a Java project designed and implemented using object-oriented analysis and design principles while working as a team. The game emphasizes modularity, abstraction, and encapsulation through well-structured code architecture. Core features include polymorphic behavior for adventurers and creatures, enabling dynamic interactions in a self-contained maze environment. Design patterns were employed to enhance flexibility and extensibility, ensuring scalability and efficient management of complex game logic in Java. Comprehensive testing strategies validate functionality and reliability, allowing the game to run in a self-playing mode, where adventurers and creatures autonomously navigate and interact.
 
 Please see the repositories below for each iteration of the game, each with a focus on enhancing the object-oriented design of the code and game functionality.
